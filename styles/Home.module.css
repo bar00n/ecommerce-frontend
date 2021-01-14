@@ -3,13 +3,13 @@
     padding: auto;
     display: flex;
     text-align: center;
-    margin-left: 100px;
+    margin-left: auto;
     margin-right: auto;
     margin-bottom: 50px;
     transition: filter 5s;
 }
 .product__ColImg {
-    width: 600px;
+    width: 100%;
 }
 .product:hover {
     filter: brightness(2);

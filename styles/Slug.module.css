@@ -13,9 +13,9 @@
 .desc {
     padding: auto;
     text-align: justify;
-    margin-left: 50v;
+    margin-left: 10px;
     margin-top: 70px;
-    margin-right: 30px;
+    margin-right: 10px;
 }
 @media only screen and (min-width: 600px) {
     .slug {display: flex;}

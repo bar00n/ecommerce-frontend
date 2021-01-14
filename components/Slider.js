@@ -2,7 +2,7 @@ import style from '../styles/Slider.module.css'
 
 export default () => {
     return(
-       <div>
+       <div className={style.head}>
            <img src='/slide.jpg' className={style.slider} />
            <div className={style.slogan}>
             <h1 className={style.h1}>Welcome to the Everyday Epic!</h1>
